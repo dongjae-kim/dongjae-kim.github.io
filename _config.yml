@@ -20,7 +20,7 @@ text_skin: forest # "default" (default), "dark", "forest", "ocean", "chocolate",
 highlight_theme: default # "default" (default), "tomorrow", "tomorrow-night", "tomorrow-night-eighties", "tomorrow-night-blue", "tomorrow-night-bright"
 url     : # the base hostname & protocol for your site e.g. https://www.someone.com
 baseurl : # does not include hostname
-title   : "dongjae"
+title   : "dongjae.kim"
 description: > # this means to ignore newlines until "Language & timezone"
   dongjae's little home
 
@@ -28,18 +28,18 @@ description: > # this means to ignore newlines until "Language & timezone"
 ## => Language and Timezone
 ##############################
 lang: en # the language of your site, default as "en"
-timezone: Asia/Seoul # see https://en.wikipedia.org/wiki/List_of_tz_database_time_zones for the available values
+timezone: # see https://en.wikipedia.org/wiki/List_of_tz_database_time_zones for the available values
 
 
 ## => Author and Social
 ##############################
 author:
   type      : # "person" (default), "organization"
-  name      : 
-  url       :
+  name      : dongjae.kim
+  url       : 
   avatar    : # path or url of avatar image (square)
-  bio       : 
-  email     : 
+  bio       : Find me
+  email     : dongjae.k.kim@gmail.com
   facebook  : # "user_name" the last part of your profile url, e.g. https://www.facebook.com/user_name
   twitter   : # "user_name" the last part of your profile url, e.g. https://twitter.com/user_name
   weibo     : # "user_id"   the last part of your profile url, e.g. https://www.weibo.com/user_id/profile?...
@@ -54,7 +54,7 @@ author:
 
 ## => GitHub Repository (if the site is hosted by GitHub)
 ##############################
-repository: user_name/repo_name
+repository: dongjae-kim/dongjae-kim.github.io
 repository_tree: master
 
 
@@ -83,14 +83,14 @@ toc:
 ## => Markdown Enhancements
 ##############################
 ## Mathjax
-mathjax: # false (default), true
-mathjax_autoNumber: # false (default), true
+mathjax: true # false (default), true
+mathjax_autoNumber: true # false (default), true
 
 ## Mermaid
-mermaid: # false (default), true
+mermaid: true # false (default), true
 
 ## Chart
-chart: # false (default), true
+chart: true # false (default), true
 
 
 ## => Paginate
@@ -168,12 +168,12 @@ search:
 ## => Analytics
 ##############################
 analytics:
-  provider: false # false (default), "google", "custom"
+  provider: "google" # false (default), "google", "custom"
 
   ## Google Analytics
   google:
-    tracking_id : # Google Analytics id for the site
-    anonymize_ip: false # Anonymize IP tracking for Analytics
+    tracking_id : "G-BTQDSWEKL6" # Google Analytics id for the site
+    anonymize_ip: true # anonymize ip tracking for Analytics
 
 
 ## => Build
