@@ -25,7 +25,7 @@ titles:
   # @end locale config
 key: page-about
 ---
-<span style = " font-size:1.5em; color: black;">
+<span style = " font-size:1.5em">
 Dongjae Kim, PhD </span>
 
 <span style = " font-size:0.9em; color: grey;">Postdoctoral researcher </span>
@@ -75,44 +75,41 @@ I am doing research on how human makes decisions in its most efficient and effec
     <div id='box-right'> <b>Postdoctoral researcher, NYU</b> </div>
 </div>
 
-
-
+<p></p>
 <div id='container'>
     <div id='box-left'> <i>Apr, 2016 ~ Feb, 2021</i> </div>
     <div id='box-center'>  </div>
     <div id='box-right'> <b>Program of Brain and Cognitive Engineering, KAIST</b> </div>
 </div>
-
-
 <div id='container'>
     <div id='box-left'> </div>
     <div id='box-center'>  </div>
     <div id='box-right'> Ph.D in Engineering </div>
 </div>
+
+<p></p>
 <div id='container'>
     <div id='box-left'> <i>Apr, 2012 ~ Feb, 2016</i> </div>
     <div id='box-center'>  </div>
     <div id='box-right'> <b>College of Life Sciences and Biotechnology, Korea University</b> </div>
 </div>
-
 <div id='container'>
     <div id='box-left'> </div>
     <div id='box-center'>  </div>
     <div id='box-right'> BA. in Life Sciences </div>
 </div>
-
 <div id='container'>
     <div id='box-left'> </div>
     <div id='box-center'>  </div>
     <div id='box-right'> Also BA. in Brain and Cognitive Sciences </div>
 </div>
 
+<p></p>
 <div id='container'>
     <div id='box-left'> <i>Apr, 2010 ~ Feb, 2012</i> </div>
     <div id='box-center'>  </div>
     <div id='box-right'> <b>Incheon Science High School (ISHS)</b> </div>
 </div>
-
 <div id='container'>
     <div id='box-left'> </div>
     <div id='box-center'>  </div>
