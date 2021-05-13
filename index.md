@@ -1,33 +1,19 @@
 ---
 layout: article
-titles:
-  # @start locale config
-  en      : &EN
-  en-GB   : *EN
-  en-US   : *EN
-  en-CA   : *EN
-  en-AU   : *EN
-  zh-Hans : &ZH_HANS
-  zh      : *ZH_HANS
-  zh-CN   : *ZH_HANS
-  zh-SG   : *ZH_HANS
-  zh-Hant : &ZH_HANT
-  zh-TW   : *ZH_HANT
-  zh-HK   : *ZH_HANT
-  ko      : &KO
-  ko-KR   : *KO
-  fr      : &FR
-  fr-BE   : *FR
-  fr-CA   : *FR
-  fr-CH   : *FR
-  fr-FR   : *FR
-  fr-LU   : *FR
+title: Dongjae Kim, PhD
   # @end locale config
+mode: immersive
+header:
+  theme: dark
+article_header:
+  type: overlay
+  theme: dark
+  background_color: '#203028'
+  background_image:
+    gradient: 'linear-gradient(135deg, rgba(34, 139, 87 , .4), rgba(139, 34, 139, .4))'
+    src: /docs/assets/images/cover3.jpg
 key: page-about
 ---
-<span style = " font-size:1.5em">
-Dongjae Kim, PhD </span>
-
 <span style = " font-size:0.9em; color: grey;">Postdoctoral researcher </span>
 
 **dongjae.kim@nyu.edu**
