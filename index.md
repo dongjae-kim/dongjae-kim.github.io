@@ -25,9 +25,10 @@ titles:
   # @end locale config
 key: page-about
 ---
-# Dongjae Kim, PhD <br>
+<span style = " font-size:1.5em; color: black;">
+Dongjae Kim, PhD </span>
 
-**Postdoctoral researcher**
+<span style = " font-size:0.9em; color: grey;">Postdoctoral researcher </span>
 
 **dongjae.kim@nyu.edu**
 
